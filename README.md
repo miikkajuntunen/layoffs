@@ -11,7 +11,7 @@ The first step in our project was all about cleaning up the raw layoff data. We 
 
 - __Removing Duplicates__: Removed duplicate entries to maintain data integrity and avoid redundancy.
 - __Standardizing Data__: Standardized the format and structure of the data to simplify further analysis.
-- __Null Values and Blanks__: Addressed missing or incomplete data points by either filling in the gaps or removing them as necessary.
+- __Handling Null Values and Blanks__: Addressed missing or incomplete data points by either filling in the gaps or removing them as necessary.
 - __Removing Columns and Rows__: Removed irrelevant columns and rows that did not serve our analytical objectives.
 
 ## Exploratory Data Analysis

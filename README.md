@@ -15,4 +15,10 @@ The first step in our project was all about cleaning up the raw layoff data. We 
 - __Removing Columns and Rows__: Removed irrelevant columns and rows that did not serve our analytical objectives.
 
 ## Exploratory Data Analysis
-After cleaning and preparing the data, I moved into the analysis phase to extract  insights. Here are some of the key analyses we conducted:
+After cleaning and preparing the data, I moved into the analysis phase to extract  insights. Here are some of the key analyses conducted:
+
+__Geographic and Industry Analysis__: Analyzed layoffs by country, location, and industry to identify geographic and sector-specific trends. 
+
+__Company and Stage Analysis__: Aggregated layoffs at the company level to identify which organizations had the highest and the lowest numbers of layoffs. Additionally, I investigated the influence of company stages on layoffs.
+
+__Temporal Analysis__: Examined layoffs data by year to track any overarching trends over time. Further broke down the data by month, to get a more detailed analysis of the layoffs.
